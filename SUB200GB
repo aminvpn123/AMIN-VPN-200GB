@@ -3,7 +3,10 @@ base64:8J+bnCBBTUlOIFZQTg==
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=214748364800; expire=1771459200
 
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#🇩🇪[AminVPN Base] vless-DE
-vless://661e8eb5-c7eb-4bb0-b58f-46a5bb3f8f74@89.208.87.173:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=1929ef620e9b34f5&sni=m.vk.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20%5BAminVPN%20External%5D%20vless-PL
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&authority=Telegram-SellV2rayBot--Telegram-SellV2rayBot&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#🇩🇪[AminVPN plus] vless-DE
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&authority=Telegram-SellV2rayBot--Telegram-SellV2rayBot&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#🇩🇪[AminVPN MAX] vless-DE
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?encryption=none&security=none&type=grpc#🇱🇹[AminVPN BEST] Lithuana
+vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.32.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#[AminVPN SUPER FAST]⚡️
+vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.34.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F##[AminVPN SUPER FAST 2]⚡️
+vless://661e8eb5-c7eb-4bb0-b58f-46a5bb3f8f74@89.208.87.173:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=1929ef620e9b34f5&sni=m.vk.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20%5BAminVPN%20External%5D%20Poland
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&authority=Telegram-SellV2rayBot--Telegram-SellV2rayBot&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#🇩🇪[AminVPN plus] Germany
+vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#🇩🇪[AminVPN ULTRA] Germany
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#🚀[AminVPN GAMING]
