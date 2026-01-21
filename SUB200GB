@@ -1,7 +1,8 @@
 #profile-title:🐈‍⬛ GRAY VPN 200GB
 base64:8J+bnCBBTUlOIFZQTg==
 #profile-update-interval: 1
-#subscription-userinfo: ♾️ Безлимитный трафик на всех локациях upload=0; download=0; total=214748364800; expire=1771459200
+#subscription-userinfo: upload=1; download=1; total=214748364800; expire=1771459200
+#title:♾️ Безлимитный трафик на всех локациях 
 
 vless://e8cba8f5-b824-4f56-8d91-9164fac200ce@spb.jojack.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=spb.jojack.ru&fp=qq&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f78eee63f41b3ede&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%E2%9A%A1%20%D0%9F%D0%B8%D1%82%D0%B5%D1%80%20(%D0%91%D0%B5%D0%B7%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA)
 vless://e8cba8f5-b824-4f56-8d91-9164fac200ce@spb.cdn.stun.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=spb.cdn.stun.su&fp=qq&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f6f88b14adc6f641&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%C2%B2%20%D0%9F%D0%B8%D1%82%D0%B5%D1%80%20(%D0%91%D0%B5%D0%B7%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA)
